@@ -1,3 +1,15 @@
+## 🌐 Live Preview
+
+Coming Soon...
+
+## 📸 Project Preview
+
+<p align="center">
+  <img src="./screenshots/home-page.png" width="800">
+</p>
+
+
+
 # 💪 Abhishek Fitness
 
 <p align="center">
@@ -11,7 +23,7 @@
 </p>
 
 <p align="center">
-  A fitness guidance website that helps users learn about gym workouts, cardio exercises, fitness tips, and motivation through informative content and embedded videos.
+ Abhishek Fitness is a fitness guidance website built with HTML, CSS, and JavaScript. It provides information about gym workouts, cardio exercises, fitness tips, and motivational videos to help users stay consistent on their fitness journey.
 </p>
 
 ---
