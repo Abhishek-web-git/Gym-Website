@@ -1,6 +1,6 @@
 ## 🌐 Live Preview
 
-Coming Soon...
+[🚀 Live Demo](https://abhishekgymwebsite.netlify.app/) • [📂 GitHub Repository](https://github.com/Abhishek-web-git/Gym-Website)
 
 ## 📸 Project Preview
 
