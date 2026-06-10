@@ -111,7 +111,7 @@ Gym-Website/
 
 ## 🏠 Home Page
 
-![Home Page](./screenshots/home-page.png)
+![Home Page](./screenshots/Screenshot 2026-06-11 015121.png)
 
 The landing page introduces visitors to the fitness platform and encourages users to stay committed to their workout goals.
 
